@@ -35,3 +35,10 @@ body {
 	flex-direction: column;
 	z-index: 9999;
 }
+
+#title,
+#description {
+	text-align: center;
+	color: #444;
+}
+
