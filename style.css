@@ -55,3 +55,8 @@ body {
 	background-color: rgb(255, 255, 255, 0.9);
 }
 
+.form-group {
+	margin: 0 auto 1.25rem auto;
+	padding: 0.25rem;
+}
+
