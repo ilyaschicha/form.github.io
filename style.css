@@ -78,3 +78,9 @@ body {
 	border-bottom: 2px solid #aaa;
 	transition: all 0.5s;
 }
+#name:focus,
+#email:focus,
+#nember:focus,
+#dropdown:focus {
+	border-bottom-color: #000;
+}
