@@ -60,3 +60,21 @@ body {
 	padding: 0.25rem;
 }
 
+#name,
+#email,
+#nember,
+#dropdown {
+	background-color: inherit;
+	letter-spacing: 1.4px;
+	color: inherit;
+	font-weight: 500;
+	font-size: 24px;
+	width: 100%;
+	display: block;
+	outline: none;
+	border: none;
+	margin-top: 0.5rem;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #aaa;
+	transition: all 0.5s;
+}
