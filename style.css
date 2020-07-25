@@ -84,3 +84,8 @@ body {
 #dropdown:focus {
 	border-bottom-color: #000;
 }
+.form-group label {
+	font-weight: 500;
+	font-size: 24px;
+}
+
