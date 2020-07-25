@@ -144,3 +144,10 @@ input[type="checkbox"]:checked + span::after {
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
+#texta {
+	display: none;
+	width: 97%;
+	border: 2px solid #000;
+	border-radius: 0;
+}
+
